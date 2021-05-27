@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Proloy-Pal
+- 👋 Hi, I’m @pp
 - 👀 I’m interested in Machine Learning and Data Sciencs
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on NLP
